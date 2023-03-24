@@ -1,6 +1,6 @@
 import streamlit as st
 st.title('Flames Calculator')
-
+st.text("please enter one male and one female only")
 title = st.text_input('Your Name')
 title2 = st.text_input("Crush Name")
 
