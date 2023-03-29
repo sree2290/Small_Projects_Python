@@ -45,7 +45,7 @@ st.text("                ")
 st.text("                ")
 st.text("                ")
 
-st.text('Made with Love <3')
+st.text('Made by Sree with Love <3')
 
 
 def add_bg_from_url():
